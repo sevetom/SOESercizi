@@ -1,0 +1,15 @@
+__END_DECLS
+
+#endif /* <stdio.h> included.  */
+__END_DECLS
+
+#endif /* <stdio.h> included.  */
+__END_DECLS
+
+#endif /* <stdio.h> included.  */
+__END_DECLS
+
+#endif /* <stdio.h> included.  */
+__END_DECLS
+
+#endif /* <stdio.h> included.  */
